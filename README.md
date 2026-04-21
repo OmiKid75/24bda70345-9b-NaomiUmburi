@@ -183,4 +183,7 @@ Value: paste the webhook URL
 6d — Add the notification step to your workflow
 Append this step inside the docker job, after the build-push step:
 
+SCREENSHOT:<img width="548" height="392" alt="image" src="https://github.com/user-attachments/assets/44cb8e8a-b81b-4970-b2d5-cd184ce14f43" />
+
+
      
